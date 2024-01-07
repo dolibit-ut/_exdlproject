@@ -72,3 +72,12 @@ MessageNoTaskLink = No task affected, no time passed available
 # Setup Page
 #
 DOLIPROJECT_DEFAUT_TICKET_TIME = Default time spent
+
+
+Monday = Monday
+Tuesday = Tuesday
+Wednesday = Wednesday
+Thursday = Thursday
+Friday = Friday
+Saturday = Saturday
+Sunday = Sunday
